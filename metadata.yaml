@@ -5,12 +5,17 @@ contributor:
     agent_name: Blanche, Atkinson
     gutenberg_agent_id: '54062'
     url: http://www.gutenberg.org/2009/agents/54062
+covers:
+- cover_type: archival
+  image_path: 66987-h/images/cover.jpg
 creator:
   author:
     agent_name: Power, Cobbe Frances
     gutenberg_agent_id: '54061'
     url: http://www.gutenberg.org/2009/agents/54061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66987#Life-of-Frances-Power-Cobbe-as-told-by-herself-with-additions-by-the-author-and-introduction-_
 gutenberg_issued: '2021-12-21'
 identifiers:
   gutenberg: '66987'
